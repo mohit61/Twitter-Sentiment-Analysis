@@ -52,4 +52,4 @@ with open('sentiment.csv', 'w') as file:
 #NOTES:
 	# sentiment analysis - understanding and extracting feelings from data
 
-	# and api lets you access an apps functionality from your code
+	# and api lets you access an apps functionality(servers internal functionaliy) from your code
